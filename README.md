@@ -1,2 +1,2 @@
 # Hello!
-## I am Timothy Sim
+I am *Timothy Sim* from Dunman High School
